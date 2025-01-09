@@ -1,5 +1,4 @@
 import pyxel
-import PyxelUniversalFont
 
 class App:
     def __init__(self):
